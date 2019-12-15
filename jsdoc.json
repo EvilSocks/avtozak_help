@@ -5,7 +5,7 @@
   },
 
   "opts": {
-    "destination": "./docs/"
+    "destination": "./docs//"
   },
 
   "templates": {
