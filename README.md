@@ -12,3 +12,6 @@
 # В планах
 1. Приложения для iOS, Android, KaiOS
 2. Сайт
+
+# Связь
+Telegram: [@EvilSocks](https://t.me/EvilSocks)
