@@ -1,3 +1,4 @@
+Проект создан в рамках | [онлайн-хакатона в поддержку политических заключенных.](https://github.com/developers-against-repressions/devs-against-the-machine)
 # avtozak_help
 
 Бот-помошник связующий волонтеров и заключенных
